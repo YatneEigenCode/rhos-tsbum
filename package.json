@@ -1,0 +1,10 @@
+{
+  "name": "tsbum",
+  "version": "0.112",
+  "description": "TextStore web app using minimal node.js http requirement.",
+  "main": "server-bum.js",
+  "repository": "",
+  "author": "jchoy <jcbum@okdaily.com>",
+  "dependencies": {
+  }
+}
