@@ -5,5 +5,5 @@
   "repository": ""
   ,"author": "jchoy <jcbum@okdaily.com>"
   ,"main": "server-bum.js"
-  ,"start": "node server-bum.js"
+  ,"scripts": {"start": "node server-bum.js"}
 }
