@@ -4,7 +4,5 @@
   "description": "TextStore web app using minimal node.js http requirement.",
   "main": "server-bum.js",
   "repository": "",
-  "author": "jchoy <jcbum@okdaily.com>",
-  "dependencies": {
-  }
+  "author": "jchoy <jcbum@okdaily.com>"
 }
